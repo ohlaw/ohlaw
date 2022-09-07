@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olaitan Lawal
-- 👀 I’m interested in data analysis, continuous learning and networking with likminded people.
+- 👀 I’m interested in data analysis, continuous learning and networking with like-minded people.
 - 🌱 I’m currently learning and developing my data analysis skills.
 - 💞️ I’m looking to collaborate on data related projects/work and my next challenge in a data related position.
 - 📫 Contact me via my email: ltnlawal@gmail.com
